@@ -1,5 +1,5 @@
 # Time-Series-Generated-Signals
-Playing around with simulated time series data and getting familiar with this type of analysis in R
+Playing around with simulated time series data and getting familiar with this type of analysis in R. Feeling more and more like a grad student/data scientist each day!
 
 #### Resources -- Conceptual
 
