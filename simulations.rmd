@@ -1,0 +1,19 @@
+---
+title: "Simulations of Time Series Data"
+author: "Andira Putri"
+output: pdf_document
+---
+
+#### Generating Time Series Data in R
+
+The function `ts()` can convert a numeric vector into a time series object in R. The syntax is `ts(vectorname, start=, end=, frequency=)`, where start/end are the first/last time points, and frequency is the number of observations per unit in time. `frequency=1` means yearly, `frequency=12` means monthly, etc. Let's generate a time series data set here:
+
+```{r}
+set.seed(1)
+#randomly generate vector of length 72
+vector=rnorm(72,0,1)
+#generate time series spanning 6 years
+#6 years --> 72 months, frequency=12 puts time series in terms of months
+series.1=ts(vector,start=c(2009,1),end=c(2014,12),frequency=12)
+plot(series.1)
+```
