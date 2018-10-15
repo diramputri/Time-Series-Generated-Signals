@@ -12,3 +12,5 @@ Playing around with simulated time series data and getting familiar with this ty
 * https://www.statmethods.net/advstats/timeseries.html
 
 * http://r-statistics.co/Time-Series-Analysis-With-R.html
+
+* A Little Book of R for Time Series! https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/
