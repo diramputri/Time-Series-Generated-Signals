@@ -7,6 +7,8 @@ Playing around with simulated time series data and getting familiar with this ty
 
 * This collection: https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm
 
+* Connection between correlation coefficient and autocorrelation: https://www.alanzucconi.com/2016/06/06/autocorrelation-function/#part2
+
 #### Resources -- R Implementation
 
 * https://www.statmethods.net/advstats/timeseries.html
