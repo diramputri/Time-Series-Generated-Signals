@@ -54,3 +54,5 @@ When using the entirety of time series data, interpreting correlograms might not
 Great reads!
 
 * https://www.alanzucconi.com/2016/06/06/autocorrelation-function/#part2
+
+* https://www.itl.nist.gov/div898/handbook/eda/section3/eda35c.htm
